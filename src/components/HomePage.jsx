@@ -33,7 +33,7 @@ const HomePage = () => {
     <div className="container">
       {/* Header */}
       <div className="header">
-        <h1>2300033036</h1>
+        <h1>2300033036-Lowkhya</h1>
         <div className="header-right">
           {isAuthenticated ? (
             <div className="profile-menu">
